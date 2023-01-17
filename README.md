@@ -14,6 +14,7 @@
 [![](https://img.shields.io/badge/Code-tRPC-blue?logo=trpc)](https://www.graphql.com/)
 [![](https://img.shields.io/badge/DB-Mongo-success?logo=mongodb)](https://www.mongodb.com/)
 [![](https://img.shields.io/badge/DB-Postgresql-blue?logo=postgresql)](https://www.postgresql.org/)
+[![](https://img.shields.io/badge/DB-Mysql-red?logo=mysql)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/Server-Express-yellow?logo=express)](https://expressjs.com/)
 [![](https://img.shields.io/badge/Code-HTML-red?logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![](https://img.shields.io/badge/Code-CSS-orange?logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
