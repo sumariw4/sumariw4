@@ -9,7 +9,7 @@
 [![](https://img.shields.io/badge/Code-Javascript-yellow?logo=javascript)](https://www.javascript.com/)
 [![](https://img.shields.io/badge/Code-Php-red?logo=php)](https://www.php.net/)
 [![](https://img.shields.io/badge/Code-ReactJS-blue?logo=react)](https://www.reactjs.org/)
-[![](https://img.shields.io/badge/Code-reactnative-blue?logo=ReactNative)](https://reactnative.dev/)
+[![](https://img.shields.io/badge/Code-ReactJS-blue?logo=ReactNative)](https://reactnative.dev/)
 [![](https://img.shields.io/badge/Code-Laravel-red?logo=laravel)](https://laravel.com/)
 [![](https://img.shields.io/badge/Code-Graphql-pink?logo=graphql)](https://www.graphql.com/)
 [![](https://img.shields.io/badge/Code-tRPC-blue?logo=trpc)](https://www.graphql.com/)
