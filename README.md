@@ -3,8 +3,8 @@
 ### My 🛠️
 
 [![](https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/Code-Node-green?logo=nodedotjs)](https://nodejs.org/)
 [![](https://img.shields.io/badge/Tools-npm-critical?logo=npm)](https://www.npmjs.com/)
+[![](https://img.shields.io/badge/Code-Node-green?logo=nodedotjs)](https://nodejs.org/)
 [![](https://img.shields.io/badge/Code-Typescript-blue?logo=typescript)](https://www.typescriptlang.org/)
 [![](https://img.shields.io/badge/Code-Javascript-yellow?logo=javascript)](https://www.javascript.com/)
 [![](https://img.shields.io/badge/Code-Php-red?logo=php)](https://www.php.net/)
