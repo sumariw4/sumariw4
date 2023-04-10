@@ -1,4 +1,4 @@
-# Hello, Human 🦧🍎
+# Hello World
 
 ### My 🛠️
 
